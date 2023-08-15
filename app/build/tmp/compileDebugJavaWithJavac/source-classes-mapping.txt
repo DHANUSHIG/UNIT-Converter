@@ -1,0 +1,12 @@
+com/example/unitconvertor/BuildConfig.java
+ com.example.unitconvertor.BuildConfig
+com/example/unitconvertor/TemperatureAct.java
+ com.example.unitconvertor.TemperatureAct
+com/example/unitconvertor/AreaAct.java
+ com.example.unitconvertor.AreaAct
+com/example/unitconvertor/MainActivity.java
+ com.example.unitconvertor.MainActivity
+com/example/unitconvertor/DataAct.java
+ com.example.unitconvertor.DataAct
+com/example/unitconvertor/LengthAct.java
+ com.example.unitconvertor.LengthAct

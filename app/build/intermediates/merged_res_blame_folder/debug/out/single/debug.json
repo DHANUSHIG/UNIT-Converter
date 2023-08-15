@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\layout_temperature_act.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\layout\\temperature_act.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_speed.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\speed.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_time.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\time.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_rounded_corners.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\layout_rounded_corners.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\font_andika.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\font\\andika.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_power.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\power.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\font_andada.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\font\\andada.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\layout_data_act.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\layout\\data_act.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\layout_length_act.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\layout\\length_act.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_area.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\area.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_length.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\length.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_temperature.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\temperature.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_styling.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\layout\\spinner_styling.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weight.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\weight.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_first_page.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\first_page.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\layout_area_act.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\layout\\area_act.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_numbers_border_edit1.jpg.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\numbers_border_edit1.jpg"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_numbers_border_edit.jpg.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\numbers_border_edit.jpg"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\font_audiowide.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\font\\audiowide.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_spinner.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\rounded_spinner.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_data.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\data.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boxes_rounded.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\boxes_rounded.xml"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume.png.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\drawable\\volume.png"
+    },
+    {
+        "merged": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\DOCUMENTS\\6th sem\\MAD\\UnitConvertor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
